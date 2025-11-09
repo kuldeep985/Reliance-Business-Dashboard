@@ -25,26 +25,7 @@ To help business leaders quickly compare performance across divisions, identify 
 
 ---
 
-### 🎨 Theme
-Custom theme designed with Reliance brand-inspired colors:
-- Navy Blue — `#0A2540`
-- Orange Accent — `#FF9900`
-- Light Gray Background — `#F4F4F4`
 
----
-
-### 📁 Files in this Repository
-| File | Description |
-|------|--------------|
-| `Reliance_business_performance.pbix` | Power BI dashboard file |
-| `RelianceTheme.json` | Custom theme file |
-| `Dataset.csv` | Source data (if applicable) |
-| `Screenshots/` | Dashboard visuals |
-
----
-
-### 🖼️ Dashboard Preview
-![Overview Screenshot](Screenshots/overview.png)
 
 ---
 
