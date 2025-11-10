@@ -21,7 +21,6 @@ To help business leaders quickly compare performance across divisions, identify 
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
 - **Excel Dataset**
-- **Custom Power BI Theme (Reliance_Theme.json)**
 
 ---
 
@@ -38,16 +37,14 @@ To help business leaders quickly compare performance across divisions, identify 
 
 ### 👤 Author
 **Kuldeep Thakkar**  
-📧 [Your Email or LinkedIn link here]  
+📧 kuldeepthakkar985@gmail.com 
 📅 Created: November 2025
 
 ---
 
 ### 🪄 How to Use
-1. Download the `.pbix` file.
+1. Download the `.pbix` file or access this link https://narayanafoundation-my.sharepoint.com/:u:/g/personal/mansithakkar_pgdmds23_nbs_edu_in/Ef3V6ULnIPZEsuSEu6WZq0cBGLzYowcR52glKv0DtUxNqA?e=c65PTR.
 2. Open in **Power BI Desktop**.
-3. Enable the custom theme:  
-   **View → Themes → Browse for Themes → RelianceTheme.json**
 
 ---
 
